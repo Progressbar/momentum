@@ -10,7 +10,7 @@ our soon to be LED [==+> ] in windows https://goo.gl/photos/VLsqS14gzdyxJ2pZ7
   * ~ 3GBP
   * which version? w/ i2c channel
   * buylinkhere
-* ~25 RGB LEDs one pixel * 6 ≈ 150 RGB LEDs
+* ~27 RGB LEDs one pixel * 6 ≈ 162 RGB LEDs
   * price?
   * buylinkhere
 * 6 PNP transistors
