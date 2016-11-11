@@ -15,8 +15,9 @@ Mood/Ambient lamp in windows of Progressbar hackerspace
   * which version? w/ i2c channel
   * buylinkhere
 * ~27 RGB LEDs one pixel * 6 ≈ 162 RGB LEDs
-  * price?
-  * buylinkhere
+  * 5050 300leds waterproof 15M
+  * 20.90GBP
+  * http://www.ebay.co.uk/itm/222249833184?var=521085592998
 * 6 PNP transistors
 * Power source 12V
   * price?
