@@ -5,6 +5,11 @@
 Mood/Ambient lamp in windows of Progressbar hackerspace
 * (FIXME) need API 
 
+## Documentation
+
+we are using e1.31 protocol, so far testing unit is at universe 2
+
+
 ## Hardware Requirements (One Window)
 * [Pimorini - 18-channel-8-bit-pwm-led-driver-w-i2c-interface](https://shop.pimoroni.com/products/18-channel-8-bit-pwm-led-driver-w-i2c-interface)
   * ~ 6GBP
