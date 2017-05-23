@@ -4,6 +4,7 @@
   "description": "just control our window lights",
   "main": "index.js",
   "scripts": {
+    "rgb-e131": "nodemon e131.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
