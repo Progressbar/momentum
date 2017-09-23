@@ -15,6 +15,8 @@ $ brew install pkg-config cairo libpng jpeg giflib
 
 https://github.com/bbx10/espopc
 
+https://github.com/bbx10/node-opc-server
+
 ## Hardware Requirements (One Window)
 * [Pimorini - 18-channel-8-bit-pwm-led-driver-w-i2c-interface](https://shop.pimoroni.com/products/18-channel-8-bit-pwm-led-driver-w-i2c-interface)
   * ~ 6GBP
