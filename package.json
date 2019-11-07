@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/Progressbar/momentum#readme",
   "dependencies": {
-    "canvas": "^1.6.5",
+    "canvas": "^1.6.10",
     "canvastoe131": "0.0.3",
     "e131": "^1.1.1"
   }
